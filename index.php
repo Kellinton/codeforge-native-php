@@ -7,7 +7,6 @@
     <?php require_once('includes/head.php'); ?>
 
     <link rel="stylesheet" href="assets/css/home.css">
-    <link rel="stylesheet" href="assets/css/styleSkills.css'">
     <link rel="stylesheet" href="assets/css/mobile.css'">
 </head>
 <body data-spy="scroll" data-target="#navbar" class="static-layout">
